@@ -7,6 +7,7 @@ I am Vaidehi Dambhare, currently doing my bachelors in Computer Technology. I am
 ⚡ Fun fact about me is, I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 
 <hr/>
+![Visitor Count](https://profile-counter.glitch.me/vaidehidambhare/count.svg)
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -35,6 +36,7 @@ I am Vaidehi Dambhare, currently doing my bachelors in Computer Technology. I am
     </a>
 
 <hr/>
+![](https://activity-graph.herokuapp.com/graph?username=vaidehidambhare&theme=react-dark&area=true)
 <h4>📫Connect with me:</h4>
 <hr/>
 <a href="https://www.linkedin.com/in/vaidehi-dambhare-915581233">
